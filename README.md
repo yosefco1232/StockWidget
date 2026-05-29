@@ -31,7 +31,7 @@ The app allows users to select which assets they want to monitor, and displays l
 ![Widget](ScreenShots/Screenshot_20260529_161609.png)
 
 ### Asset Selection Screen
-![Selection](Screenshots/Screenshot_20260529_161709.png)
+![Selection](ScreenShots/Screenshot_20260529_161709.png)
 
 ## How It Works
 
